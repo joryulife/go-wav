@@ -1,5 +1,5 @@
 // Package wav reads and writes wave (.wav) file.
-package wav
+package wavsound
 
 import (
 	"bytes"
